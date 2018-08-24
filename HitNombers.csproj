@@ -300,8 +300,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Game\GameMain.cs" />
+    <Compile Include="Assets\Scripts\Match\MatchBtn.cs" />
     <Compile Include="Assets\Scripts\Option\Op_DecisionBtn.cs" />
     <Compile Include="Assets\Scripts\SceneChanger.cs" />
+    <Compile Include="Assets\Scripts\SettingData.cs" />
     <Compile Include="Assets\Scripts\Title\IwordBtn.cs" />
     <Compile Include="Assets\Scripts\Title\OptionBtn.cs" />
     <Compile Include="Assets\Scripts\Title\VSBtn.cs" />
